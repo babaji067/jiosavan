@@ -52,7 +52,7 @@ HEROKU_APP_NAME = getenv("HEROKU_APP_NAME")
 HEROKU_API_KEY = getenv("HEROKU_API_KEY")
 
 # ✅ Git & Upstream Repo
-UPSTREAM_REPO = getenv("UPSTREAM_REPO", "https://github.com/sigmathakur/vaishumussic-v4")
+UPSTREAM_REPO = getenv("UPSTREAM_REPO", "https://github.com/tgwalehm-byte/chhotimusic-2")
 UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "main")
 GIT_TOKEN = getenv("GIT_TOKEN", "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")  # Only for private repo
 
