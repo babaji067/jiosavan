@@ -54,7 +54,7 @@ HEROKU_API_KEY = getenv("HEROKU_API_KEY")
 # ✅ Git & Upstream Repo
 UPSTREAM_REPO = getenv("UPSTREAM_REPO", "https://github.com/tgwalehm-byte/chhotimusic-2")
 UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "main")
-GIT_TOKEN = getenv("GIT_TOKEN", "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")  # Only for private repo
+GIT_TOKEN = getenv("GIT_TOKEN", "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")  # Only for private repo
 
 # ✅ Support Links
 SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/BOTxBOOSTER")
