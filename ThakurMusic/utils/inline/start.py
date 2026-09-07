@@ -48,8 +48,8 @@ def private_panel(_):
         ],
         [
             InlineKeyboardButton(
-                text="💌 ʏᴛ-ᴀᴘɪ",
-                callback_data="bot_info_data",
+                text="ʟαηɢυαɢє",
+                callback_data="LG",
             ),
             InlineKeyboardButton(
                 text=_["S_B_5"],
