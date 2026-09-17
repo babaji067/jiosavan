@@ -41,7 +41,7 @@
 
 <br>
 
-- Get your [Necessary Variables](https://github.com/reetsingh886/Vaishu-Music/blob/main/sample.env)
+- Get your [Necessary Variables](https://github.com/babaji067/jiosavan)
 
 ### Upgrade and Update
 
