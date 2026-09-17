@@ -57,9 +57,9 @@ UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "main")
 GIT_TOKEN = getenv("GIT_TOKEN", "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")  # Only for private repo
 
 # ✅ Support Links
-SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/pikubot18")
-SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/pikusupport")
-UPDATES_CHANNEL = getenv("UPDATES_CHANNEL", "https://t.me/pikubot18")
+SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/messo_network")
+SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/chhoti_bot_support")
+UPDATES_CHANNEL = getenv("UPDATES_CHANNEL", "https://t.me/messo_network")
 
 SHUKLA = getenv("SHUKLA", "https://wavetune.vercel.app")
 
